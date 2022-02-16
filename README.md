@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>PolarNFTS.ETH | Backend Developer & Car Enthusiast</h1>
+<h2>🧠About me</h2>
 
-<!--
-**PolarCrypto/PolarCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🎂 18 Years Old.</li>
+  <li>🏎️ Major Car Enthusiast.</li>
+  <li>💰 Pursuing Marketing & Computer Science.</li> 
+  <li>📪 Contact me on <a href="https://www.instagram.com/polarnfts/">Instagram</a>, <a href="https://twitter.com/polarnfts_eth">Twitter</a> or <a href="polarnfts@gmail.com">Email me.</a> </li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>🛠️ Languages & Tools </h2>
+<ul>
+  <li>Python</li>
+  <li>Discord.PY & Disnake</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📋 Projects </h2>
+<ul>
+  <li>Entity Discord Security Bot</li>
+</ul>
