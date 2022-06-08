@@ -16,5 +16,5 @@
 
 <h2>📋 Projects </h2>
 <ul>
-  <li>Entity Discord Security Bot</li>
+  <li><a href="https://discord.gg/alphaomega">Alpha Omega Group</a> </li>
 </ul>
