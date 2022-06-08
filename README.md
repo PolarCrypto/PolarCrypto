@@ -5,7 +5,7 @@
   <li>🎂 18 Years Old.</li>
   <li>🏎️ Major Car Lover.</li>
   <li>💰 Pursuing Marketing & Computer Science.</li> 
-  <li>📪 Contact me on <a href="https://www.instagram.com/polarnfts/">Instagram</a>, <a href="https://twitter.com/polarnfts_eth">Twitter</a> or <a href="polarnfts@gmail.com">Email me.</a> </li>
+  <li>📪 Contact me on <a href="https://www.instagram.com/george.ce0/">Instagram</a>, <a href="https://twitter.com/polarnfts_eth">Twitter</a> or <a href="polarnfts@gmail.com">Email me.</a> </li>
 </ul>
 
 <h2>🛠️ Languages & Tools </h2>
