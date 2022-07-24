@@ -8,10 +8,12 @@
   <li>📪 Contact me on <a href="https://www.instagram.com/george.ce0/">Instagram</a>, <a href="https://twitter.com/polarnfts_eth">Twitter</a> or <a href="polarnfts@gmail.com">Email me.</a> </li>
 </ul>
 
-<h2>🛠️ Languages & Tools </h2>
+<h2>🛠️ Languages & Technologies </h2>
 <ul>
+  <li>JavaScript</li>
   <li>Python</li>
-  <li>Discord.PY & Disnake</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
 </ul>
 
 <h2>📋 Projects </h2>
